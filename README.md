@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm aiming to be an asshole.
 <!--
 **redstonee/redstonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
